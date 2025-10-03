@@ -1,20 +1,21 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently working as a Rresearch Asistant in School of Fashion and Textiles, The Hong Kong Polytechnic University, Hong Kong SAR.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>chuanyiliu@mail.sdu.edu.cn</code>  
+
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Shandong University**, Bachelor of Engineering (2021 – 2025)  
+• Major: New Energy Science and Engineering
+• GPA: 88.42/100 
+• Rank: 4/56
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Shandong University**, Bachelor of Science (2021 – 2025)  
+• Minor: Mathematics and Applied Mathematics
+• GPA: 92.17/100 
+• Rank: 2/33 
 
 #### Research Interests  
-XX, XX, XX, XX.
+Material Science, AI for Science, Explosion, Heat Transfer, Finance.
