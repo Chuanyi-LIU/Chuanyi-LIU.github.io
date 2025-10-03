@@ -1,5 +1,5 @@
 ### **Software Engineer Intern**  
-**January 2025 – June 2025 | CICC**  
+**January 2025 – June 2025 | SDU**  
 
 Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
 
@@ -11,7 +11,7 @@ Worked on the development and optimization of large-scale recommendation systems
 ---
 
 ### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 中金公司**  
+**2025年1月 – 2025年6月 | 山东大学**  
 
 负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
 
