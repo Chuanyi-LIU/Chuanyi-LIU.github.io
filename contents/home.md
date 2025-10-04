@@ -22,4 +22,4 @@ I'm currently working as a Rresearch Asistant in School of Fashion and Textiles,
 • Rank: 2/33 
 
 #### Research Interests  
-Material Science, AI for Science, Explosion, Heat Transfer, Finance.
+Material Science, Machine Learning, Explosion, Fluid Mechanics, Heat Transfer, Finance.
