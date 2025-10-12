@@ -109,4 +109,90 @@ section .main-body{
     }
 }
 
+/* Experience 图片样式 */
+.experience-image-container {
+    margin: 2rem 0;
+}
 
+.experience-img {
+    border: 3px solid #f8f9fa;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.experience-img:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+/* 响应式图片 */
+@media (max-width: 768px) {
+    .experience-img {
+        max-width: 95% !important;
+    }
+}
+
+/* 轮播容器样式 */
+.carousel {
+    max-width: 800px; /* 限制最大宽度 */
+    margin: 0 auto; /* 居中显示 */
+}
+
+/* 轮播图片/视频样式 */
+.carousel-inner .d-block {
+    height: 400px; /* 固定高度，可调整 */
+    object-fit: cover; /* 保持比例填充容器 */
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .carousel-inner .d-block {
+        height: 250px; /* 小屏幕缩短高度 */
+    }
+}
+
+/* 视频特殊样式 */
+.carousel-inner video {
+    height: 400px; /* 与图片保持一致高度 */
+}
+/* 项目容器样式 */
+.research-project {
+    padding: 20px;
+}
+.lm-project {
+    padding: 20px;
+}
+/* 项目标题样式 */
+.project-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+/* 项目内容样式 */
+.project-content {
+    font-size: 1.3rem;
+    font-weight: 200;
+    line-height: 2.4rem;
+    margin-bottom: 15px;
+}
+/* 灰色分割线样式 */
+.gray-divider {
+    height: 2px;
+    background-color: #cccccc;
+    margin: 30px 0;
+}
+/* 轮播图容器样式 */
+.carousel {
+    max-width: 800px;
+    margin: 0 auto;
+}
+/* 轮播图图片样式 */
+.carousel-inner img {
+    height: 400px;
+    object-fit: cover;
+}
+/* 响应式调整轮播图高度 */
+@media (max-width: 768px) {
+    .carousel-inner img {
+        height: 250px;
+    }
+}
