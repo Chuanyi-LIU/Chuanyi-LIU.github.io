@@ -1,5 +1,10 @@
-[![XX](https://img.shields.io/badge/Chuanyi%20Liu-Google%20Scholar-blue?logo=Google%20Scholar)](https://scholar.google.com/citations?user=Odf-dOwAAAAJ&hl=zh-CN)
-[![XX](https://img.shields.io/badge/Chuanyi%20Liu-LinkedIn-purpoe)](http://linkedin.com/in/chuanyi-liu-6a6aa1340)
+<a href="https://scholar.google.com/citations?user=Odf-dOwAAAAJ&hl=zh-CN" target="_blank">
+  < img src="https://img.shields.io/badge/Chuanyi%20Liu-Google%20Scholar-blue?logo=Google%20Scholar" alt="Google Scholar">
+</a >
+<a href="http://linkedin.com/in/chuanyi-liu-6a6aa134" target="_blank">
+  < img src="https://img.shields.io/badge/Chuanyi%20Liu-LinkedIn-purpoe" alt="LinkedIn">
+</a >
+
 
 I'm currently working as a Rresearch Asistant in School of Fashion and Textiles, The Hong Kong Polytechnic University, Hong Kong SAR.
 
