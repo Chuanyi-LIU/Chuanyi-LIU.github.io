@@ -1,6 +1,6 @@
 &#42;indicates the corresponding author.
 <br>
-[1] <b>C.Liu</b>, W. Xu*, C. Wang*, D. Ma, S. Jia, Z. Zeng (2025). TPP-SiO2 Aerogel synergistic modification of polyurea composites towards mechanical shock wave mitigation and flame retardancy. Composite Part B: Engineering, 304, 2025,112641, https://doi.org/10.1016/j.compositesb.2025.112641 (SCI, JCR Q1, IF=14.2)
+[1] <b>C.Liu</b>, W. Xu*, C. Wang*, D. Ma, S. Jia, Z. Zeng (2025). TPP-SiO2 Aerogel synergistic modification of polyurea composites towards mechanical shock wave mitigation and flame retardancy. Composite Part B: Engineering, 304, 2025,112641, <a href=" https://doi.org/10.1816/j.compositesb.2825.1241"htps:/doi.org/10.1016/j.compositesb.2025.112641(SCI, JCR Q1,IF=14.2)</a>
 <br>
 [2] M. Ge, W. Xu*, <b>C.Liu</b>, X. Zhao (2025). Thin–Walled Structures 217, 2025, 113756, https://doi.org/10.1016/j.tws.2025.113756 (SCI, JCR Q1, IF=6.6)
 <br>
