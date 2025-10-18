@@ -1,8 +1,8 @@
 <a href="https://scholar.google.com/citations?user=Odf-dOwAAAAJ&hl=zh-CN" target="_blank">
-  < img src="https://img.shields.io/badge/Chuanyi%20Liu-Google%20Scholar-blue?logo=Google%20Scholar" alt="Google Scholar">
+  <img src="https://img.shields.io/badge/Chuanyi%20Liu-Google%20Scholar-blue?logo=Google%20Scholar" alt="Google Scholar">
 </a >
 <a href="http://linkedin.com/in/chuanyi-liu-6a6aa134" target="_blank">
-  < img src="https://img.shields.io/badge/Chuanyi%20Liu-LinkedIn-purpoe" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/Chuanyi%20Liu-LinkedIn-purpoe" alt="LinkedIn">
 </a >
 
 
