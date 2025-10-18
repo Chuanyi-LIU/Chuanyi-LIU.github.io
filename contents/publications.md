@@ -6,7 +6,7 @@
 <br>
 [3] <font color="#0022ffff"><b>C.Liu</b></font>, W. Xu*, T. Yang*, D. Ma, S. Jia, Z. Li (2024). Investigation on Mechanical Shock Wave Protective and Thermodynamic Properties of SiO2-Aerogel-Modified Polyurea. Materials, 17(23), 5817. <a href="https://doi.org/10.3390/ma17235817" target="_blank">https://doi.org/10.3390/ma17235817</a >(SCI, JCR Q1, IF=3.2)
 <br>
-[4] <font color="#0022ffff"><b>C.Liu</b></font>, W. Xu*, T. Yang*, D. Ma, S. Jia, Z. Li (2025). APP-HNTs Polyurea Composites Towards Mechanical Reinforcement, Flame-Retardancy and Shock-Wave Mitigation. Polymer Composites, 2025; 0:1–13, <a href="https://doi.org/10.1002/pc.70388" target="_blank">https://doi.org/10.1002/pc.70388</a > (SCI, JCR Q1, IF=4.7)
+[4] C.Zhu, W. Xu*, <font color="#0022ffff"><b>C.Liu</b></font> (2025). APP-HNTs Polyurea Composites Towards Mechanical Reinforcement, Flame-Retardancy and Shock-Wave Mitigation. Polymer Composites, 2025; 0:1–13, <a href="https://doi.org/10.1002/pc.70388" target="_blank">https://doi.org/10.1002/pc.70388</a > (SCI, JCR Q1, IF=4.7)
 <br>
 [5] H. Li, R. Zhang, <font color="#0022ffff"><b>C.Liu*</b></font>, J. Yin (2024). Optimized Design of Heliostat Field Efficiency Based on Finite Element Analysis Method. 2024 IEEE 3rd International Conference on Electrical Engineering, Big Data and Algorithms (EEBDA), Changchun, China, 2024. <a href="https://ieeexplore.ieee.org/document/10485775" target="_blank">https://ieeexplore.ieee.org/document/10485775</a > (EI Conference Article)
 <br>
