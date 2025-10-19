@@ -1,21 +1,17 @@
 ### **Private Equity Intern**  
 **2024 | China International Capital Corporation Limited（CICC）**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Participated in research on technology companies across multiple sectors, including new energy commercial vehicles, commercial nuclear fusion, semiconductors, and electronic components. Communicated with company founders, financial advisors, and VC/PE investors to gain in-depth insights into business operations and market positioning. Played an active role in the Series B financing of an agricultural drone company, contributing to the project initiation report and due diligence process.
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+---
+### **Research Assistant**  
+**2025 – Present | School of Fashion and Textiles, The Hong Kong Polytechnic University**  
+
+I participated in the development of an intelligent thermo-fluidic system for waste-heat and wastewater recovery in denim processing. The system leverages a thermosiphon-driven vacuum evaporation–condensation mechanism to simultaneously reclaim thermal energy and clean water without external energy sources. By coupling computational fluid dynamics (CFD) with neural-network-based adaptive control, the project achieves real-time optimization of flow dynamics, pressure distribution, and heat-transfer efficiency. This integrated design not only improves energy recovery rates and operational stability but also demonstrates a scalable solution for low-carbon and sustainable textile manufacturing.
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 山东大学**  
+### **Research Assistant**  
+**2021 – 2025 | Institute of Advanced Technology, Shandong University**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+Actively engaged in multiple National Natural Science Foundation projects and established the first Multi-field Coupled Transient Physics Laboratory at Shandong University. Through comprehensive research training, I have developed strong capabilities to independently design and carry out scientific investigations.
