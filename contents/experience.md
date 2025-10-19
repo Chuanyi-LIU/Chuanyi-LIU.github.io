@@ -1,5 +1,5 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | SDU**  
+### **Private Equity Intern**  
+**2024 | China International Capital Corporation Limited（CICC）**  
 
 Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
 
