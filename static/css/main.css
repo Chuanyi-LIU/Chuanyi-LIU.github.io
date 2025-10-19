@@ -197,6 +197,28 @@ section .main-body{
     }
 }
 
+.carousel-item img {
+     width: 100% !important;  /* 图片宽度充满容器 */
+     height: auto !important;  /* 高度自动（根据宽度等比缩放，保证完整显示） */
+     max-height: 500px;  /* 限制最大高度（避免图片过高，可按需调整） */
+     margin: 0 auto; /* 图片水平居中（当图片宽度小于容器时） */
+     object-fit: contain;  /* 保持比例，完整显示（优先保证图片不裁剪） */
+    }
+    
+    /* 轮播容器自适应图片高度 */
+    .carousel-inner, .carousel-item {
+     height: auto !important;  /* 容器高度随图片高度自动变化 */
+     min-height: 300px; /* 最小高度（避免图片过小时容器过矮，可按需调整） */
+    }
+    
+    /* 响应式调整：小屏幕适配 */
+    @media (max-width: 768px) {
+     .carousel-item img {
+     max-height: 300px; /* 手机端限制更小的最大高度 */
+      }
+    }
+
+
 #home {
      margin-bottom: 0 !important;
      padding-bottom: 0 !important;
