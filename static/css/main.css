@@ -196,3 +196,8 @@ section .main-body{
         height: 250px;
     }
 }
+
+#home {
+      margin-bottom: 0 !important;
+      padding-bottom: 0 !important;
+    }
