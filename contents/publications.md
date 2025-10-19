@@ -14,6 +14,6 @@
 <br>
 [7] X. Zhao, W. Xu*, Y. Gao, H. Ma, <font color="#0022ffff"><b>C.Liu</b></font>, S. Shi(2025). Research on the Energy Absorption Characteristics of Gradient Helical Chain Metastructures in Collisions. Thin–Walled Structures, Under Review (SCI, JCR Q1, IF=6.6)
 <br>
-[8] W. Xu, M. Ge, M. Wang, <font color="#0022ffff"><b>C.Liu</b></font>, X. Zhao, “Design Method and System for Cell-Based Impact Energy Absorption Structure Based on Reinforcement Learning”, China Invention Patent, 2025032601389820, accepted.
+[8] W. Xu, M. Ge, M. Wang, <font color="#0022ffff"><b>C.Liu</b></font>, X. Zhao, “Design Method and System for Cell-Based Impact Energy Absorption Structure Based on Reinforcement Learning”, <b>China Invention Patent</b>, 2025032601389820, accepted.
 <br>
-[9] W. Xu, M. Wang, Y. Gao, J. Hao, G. Meng, <font color="#0022ffff"><b>C.Liu</b></font>, “Cellular Structures with Positive and Negative Poisson's Ratio Conversion, Non- Lethal Kinetic Energy Ammunition, and Conversion Methods”, China Invention Patent, 2024091201301900, accepted.
+[9] W. Xu, M. Wang, Y. Gao, J. Hao, G. Meng, <font color="#0022ffff"><b>C.Liu</b></font>, “Cellular Structures with Positive and Negative Poisson's Ratio Conversion, Non- Lethal Kinetic Energy Ammunition, and Conversion Methods”, <b>China Invention Patent</b>, 2024091201301900, accepted.
