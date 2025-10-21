@@ -9,7 +9,9 @@
 I'm currently working as a Rresearch Asistant in School of Fashion and Textiles, The Hong Kong Polytechnic University, Hong Kong SAR.
 
 #### Email  
-<code>chuanyiliu@mail.sdu.edu.cn</code>  
+<code>chuanyiliu@mail.sdu.edu.cn</code> 
+<code>chuanyi.liu@mail.sdu.edu.cn</code> 
+<code>chuanyiliu1@gmail.com</code>  
 
 
 #### Education  
