@@ -2,7 +2,7 @@
 <br>
 [1] <font color="#0022ffff"><b>C.Liu</b></font>, W. Xu*, C. Wang*, D. Ma, S. Jia, Z. Zeng (2025). TPP-SiO2 Aerogel synergistic modification of polyurea composites towards mechanical shock wave mitigation and flame retardancy. <b>Composite Part B: Engineering</b> 304, 2025,112641. <a href="https://doi.org/10.1016/j.compositesb.2025.112641" target="_blank">https://doi.org/10.1016/j.compositesb.2025.112641</a > (SCI, JCR Q1, IF=14.2)
 <br>
-[2] M. Ge, W. Xu*, <font color="#0022ffff"><b>C.Liu</b></font>, X. Zhao (2025). Design of cell-based collision energy-absorbing structure based on reinforcement learning <b>Thin–Walled Structures</b> 217, 2025, 113756. <a href="https://doi.org/10.1016/j.tws.2025.113756" target="_blank">https://doi.org/10.1016/j.tws.2025.113756</a > (SCI, JCR Q1, IF=6.6)
+[2] M. Ge, W. Xu*, <font color="#0022ffff"><b>C.Liu</b></font>, X. Zhao (2025). Design of cell-based collision energy-absorbing structure based on reinforcement learning. <b>Thin–Walled Structures</b> 217, 2025, 113756. <a href="https://doi.org/10.1016/j.tws.2025.113756" target="_blank">https://doi.org/10.1016/j.tws.2025.113756</a > (SCI, JCR Q1, IF=6.6)
 <br>
 [3] <font color="#0022ffff"><b>C.Liu</b></font>, W. Xu*, T. Yang*, D. Ma, S. Jia, Z. Li (2024). Investigation on Mechanical Shock Wave Protective and Thermodynamic Properties of SiO2-Aerogel-Modified Polyurea. <b>Materials</b> 17(23), 5817. <a href="https://doi.org/10.3390/ma17235817" target="_blank">https://doi.org/10.3390/ma17235817</a > (SCI, JCR Q1, IF=3.2)
 <br>
