@@ -10,7 +10,9 @@ I'm currently working as a Rresearch Asistant in School of Fashion and Textiles,
 
 #### Email  
 <code>chuanyiliu@mail.sdu.edu.cn</code> 
+<br>
 <code>chuanyi.liu@mail.sdu.edu.cn</code> 
+<br>
 <code>chuanyiliu1@gmail.com</code>  
 
 
